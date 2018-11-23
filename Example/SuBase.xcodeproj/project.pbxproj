@@ -39,10 +39,10 @@
 /* Begin PBXFileReference section */
 		0990FC3233DB0C63141F5182 /* Pods-SuBase_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuBase_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SuBase_Tests/Pods-SuBase_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		14353D92188A33E8FE18DEA1 /* Pods_SuBase_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SuBase_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CDE9C932235F748B20BCAE2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		2CDE9C932235F748B20BCAE2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		3BD59B627E6F9A5093D3E8A8 /* Pods_SuBase_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SuBase_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4E9208CF8181BF8B17607BB6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		568EF03E1F1C6B9C1F821C4F /* SuBase.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SuBase.podspec; path = ../SuBase.podspec; sourceTree = "<group>"; };
+		4E9208CF8181BF8B17607BB6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		568EF03E1F1C6B9C1F821C4F /* SuBase.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SuBase.podspec; path = ../SuBase.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6003F58A195388D20070C39A /* SuBase_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuBase_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };

@@ -1,0 +1,6 @@
+framework module SuBase {
+  umbrella header "SuBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

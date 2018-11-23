@@ -1,0 +1,16 @@
+PODS:
+  - SuBase (0.1.0)
+
+DEPENDENCIES:
+  - SuBase (from `../`)
+
+EXTERNAL SOURCES:
+  SuBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SuBase: 5ef14daa2c76a8d9f3bfe3b60472369feb8814d7
+
+PODFILE CHECKSUM: 5cb21b732a320f45a2d81fd316e79123218c08a6
+
+COCOAPODS: 1.5.3
