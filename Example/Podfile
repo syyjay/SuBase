@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SuBase_Example' do
+  pod 'SuBase', :path => '../'
+
+  target 'SuBase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
